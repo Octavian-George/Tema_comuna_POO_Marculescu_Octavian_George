@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1544966908 source:c:\users\octavian\desktop\tema_comuna_poo\main.cpp
+	<iostream>
+	"Person.h"
+	"Role.h"
+	"Activity.h"
+	"Room.h"
+	<string>
+	<vector>
+
+1544953370 c:\users\octavian\desktop\tema_comuna_poo\person.h
+	<iostream>
+	<string>
+	<vector>
+	"Role.h"
+
+1544959012 c:\users\octavian\desktop\tema_comuna_poo\role.h
+	<iostream>
+
+1544904190 c:\users\octavian\desktop\tema_comuna_poo\activity.h
+	<iostream>
+	"Room.h"
+	"Person.h"
+
+1544905000 c:\users\octavian\desktop\tema_comuna_poo\room.h
+	<iostream>
+
+1544952449 c:\users\octavian\desktop\tema_comuna_poo\studentrole.h
+	<iostream>
+	<string>
+	"Role.h"
+
+1544952449 c:\users\octavian\desktop\tema_comuna_poo\teacherrole.h
+	<iostream>
+	"Role.h"
+
+1546940285 source:c:\users\octavian\desktop\tema_comuna_poo(neterminat)\main.cpp
+	<iostream>
+	"Person.h"
+	"Person.cpp"
+	"Role.h"
+	"Role.cpp"
+	"Activity.h"
+	"Activity.cpp"
+	"Room.h"
+	"Room.cpp"
+	"PersonRepository.h"
+	"PersonRepository.cpp"
+	"RoomRepository.h"
+	"RoomRepository.cpp"
+	"Repository.h"
+	"Repository.cpp"
+	"TeacherRole.h"
+	"TeacherRole.cpp"
+	"AdministrativeRole.h"
+	"AdministrativeRole.cpp"
+	"GuestRole.h"
+	"GuestRole.cpp"
+
+1546935788 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\person.h
+	<string>
+	<vector>
+	"Role.h"
+
+1546930060 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\role.h
+	<iostream>
+
+1546930492 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\activity.h
+	<string>
+	"Room.h"
+	"Person.h"
+
+1546931566 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\room.h
+	<string>
+
+1546938696 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\person.cpp
+	"Person.h"
+
+1546935296 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\role.cpp
+	"Role.h"
+
+1546930492 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\activity.cpp
+	"Activity.h"
+
+1546940349 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\room.cpp
+	<iostream>
+	"Room.h"
+
+1546932713 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\personrepository.h
+	<vector>
+	"Repository.h"
+	"Person.h"
+
+1546929409 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\repository.h
+	<vector>
+
+1546933322 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\personrepository.cpp
+	"PersonRepository.h"
+
+1546940452 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\repository.cpp
+	<iostream>
+	"Repository.h"
+
+1546937441 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\roomrepository.h
+	<vector>
+	"Room.h"
+	"Repository.h"
+
+1546937375 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\roomrepository.cpp
+	"RoomRepository.h"
+
+1546932170 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\administrativerole.h
+
+1546932170 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\administrativerole.cpp
+	"AdministrativeRole.h"
+
+1546930891 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\guestrole.h
+	"Role.h"
+
+1546931018 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\guestrole.cpp
+	"GuestRole.h"
+
+1546939887 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\teacherrole.h
+	"Role.h"
+
+1546939850 c:\users\octavian\desktop\tema_comuna_poo(neterminat)\teacherrole.cpp
+	"TeacherRole.h"
+
